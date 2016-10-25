@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Publish Ractive & Ractive-Require to the allons-y-gulp distribution system.",
   "license": "MIT",
-  "homepage": "http://allons-y.io",
+  "homepage": "https://allons-y.io",
   "author": "CodeCorico <hello@codecorico.com>",
   "bugs": "https://github.com/CodeCorico/allons-y-ractive/issues",
   "repository": {

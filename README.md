@@ -5,11 +5,11 @@
 [![Issue Stats](http://issuestats.com/github/codecorico/allons-y-ractive/badge/pr)](http://issuestats.com/github/codecorico/allons-y)
 [![npm version](https://badge.fury.io/js/allons-y-ractive.svg)](https://badge.fury.io/js/allons-y-ractive)
 
-Allons-y-ractive is an [allons-y](https://github.com/CodeCorico/allons-y) module that publish Ractive & Ractive-Require to the [Allons-y-Gulp](https://www.npmjs.com/package/allons-y-gulp) distribution system.
+Allons-y-ractive is an [allons-y](https://github.com/CodeCorico/allons-y) module that publish [Ractive](https://www.npmjs.com/package/ractive) & [Ractive-Require](https://www.npmjs.com/package/ractive-require) to the [Allons-y-Gulp](https://www.npmjs.com/package/allons-y-gulp) distribution system.
 
 ## Wiki
 
-The documentation, wiki and every Allons-y-ractive resources can be found in the [Allons-y.io platform](http://allons-y.io).
+The documentation, wiki and every Allons-y-ractive resources can be found in the [Allons-y.io platform](https://allons-y.io).
 
 ## Want to help?
 
