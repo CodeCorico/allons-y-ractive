@@ -15,7 +15,7 @@
     "npm": ">=3.2"
   },
   "dependencies": {
-    "allons-y-gulp": "^1.0.0",
+    "allons-y-gulp": "^1.0.1",
     "ractive": "^0.7.3",
     "ractive-require": "^0.6.10"
   }
