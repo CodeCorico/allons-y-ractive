@@ -20,6 +20,6 @@
   "dependencies": {
     "allons-y-gulp": "^1.0.3",
     "ractive": "^0.7.3",
-    "ractive-require": "^0.6.10"
+    "ractive-require": "^0.6.12"
   }
 }
